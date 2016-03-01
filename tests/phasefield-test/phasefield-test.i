@@ -65,7 +65,7 @@
   [./example]
     type = PhaseFieldDamageModelMaterial
     block = 0
-    thermal_conductivity = 1.0
+    pfdm_conductivity = 1.0
   [../]
 []
 

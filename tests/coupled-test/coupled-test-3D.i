@@ -114,7 +114,7 @@
   [./pmma_damage]
     type = PhaseFieldDamageModelMaterial
     block = 1
-    thermal_conductivity = 4.0*30e-6*30e-6
+    pfdm_conductivity = 3.6e-9
   [../]
 []
 
